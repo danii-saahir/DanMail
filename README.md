@@ -4,7 +4,7 @@ PHP mass mailer with multi-recipient sending.
 ## Usage
 - Install anywhere.
 - Ensure the server has SMTP or PHP 'mail' configured.
-- Optionally, customize the configuration for server configuration check info to send to your email (Or just leave as is, doesn't actually needed to change). You can also change your default password 'danmail' to anything you want.
+- Optionally, customize the configuration for server configuration check info to send to your email (Or just leave as is, doesn't actually needed to change). You can also change your default password `danmail` to anything you want.
 
 ## Features
 - Use any email
