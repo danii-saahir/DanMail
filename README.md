@@ -12,7 +12,7 @@ PHP mass mailer with multi-recipient sending.
 - Great UI on mobile and desktop.
 - Multiple recipient support.
 - Mass mailing.
-- SMTP, PHP mail() configuration check.
+- SMTP, PHP `mail()` configuration check.
 - Password to execute.
 
 ## Future Plans
